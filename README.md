@@ -13,3 +13,6 @@ The Various boosting techniques are:
            -AdaBoost
            -GradientBoost
            -XGBoost
+Dataset used: Iris dataset in seaborne
+
+The repo is only for showcasing the  code implementation.
